@@ -1,0 +1,7 @@
+sudo apt install git-all
+
+initialize -> git init
+
+show changes -> git status
+
+add file to git -> git add - before we commit we should add to git
